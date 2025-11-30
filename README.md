@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Thomas Celek!
+<h1 align="center"> 👋 Hi there, I'm Thomas Celek! </h1>
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating innovative solutions. Here you'll find a collection of my projects, contributions, and interests.
 
@@ -34,11 +34,5 @@ Here are some of the technologies and tools I work with:
 ### [Project 2](#)
 - Description: Brief description of what this project does.
 - Tech Stack: Technology used in the project.
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or just want to chat!
